@@ -26,6 +26,8 @@ h2{
   margin-bottom: 0px;
   -webkit-margin-before: 0px;
   -webkit-margin-after: 0px;
+  -moz-margin-before: 0px;
+  -moz-margin-after: 0px;
 }
 p{
   font-size: 1em;
