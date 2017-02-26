@@ -37,6 +37,7 @@ p{
   font-size: 1.5em;
   list-style: none;
   -webkit-padding-start: 0px;
+  -moz-padding-start: 0px;
   text-decoration: none;
   margin: 0 auto;
 }
